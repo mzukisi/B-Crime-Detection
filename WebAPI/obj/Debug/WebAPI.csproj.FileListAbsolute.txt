@@ -1,0 +1,333 @@
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 & Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.InitailDB.resources
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.Cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.ChangedDefaultTableNames.resources
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.ChangedDefaultColumnNames.resources
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\User Registration - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Owin.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.InitailDB.resources
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.ChangedDefaultTableNames.resources
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.ChangedDefaultColumnNames.resources
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.Cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Login and Logout - Angular 5 and Web API\Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\WebAPI.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\WebAPI.pdb
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\EntityFramework.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Owin.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\WebGrease.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\PROJECTS\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.InitailDB.resources
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.ChangedDefaultTableNames.resources
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.Migrations.ChangedDefaultColumnNames.resources
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.cache
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\PROJECTS\Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\WebAPI.dll.config
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\WebAPI.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\WebAPI.pdb
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\EntityFramework.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Owin.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Cors.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Http.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Razor.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\WebGrease.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\EntityFramework.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Http.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.Razor.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\nzonz\Source\Repos\RTCR\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\WebAPI.dll.config
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\WebAPI.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\WebAPI.pdb
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\EntityFramework.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Owin.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Cors.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Http.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Razor.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\WebGrease.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\EntityFramework.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Http.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.Razor.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\nzonz\source\repos\Project\RTCR\WebAPI\obj\Debug\WebAPI.pdb

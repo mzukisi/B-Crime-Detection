@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebAPI/v15/Server/sqlite3/storage.ide-wal
+/.vs/WebAPI/v15/Server/sqlite3
+/.vs/config/applicationhost.config
+/.vs/WebAPI/v15/.suo
+/WebAPI/obj/Debug/WebAPI.csproj.CopyComplete
+/WebAPI/obj/Debug/WebAPI.csproj.CoreCompileInputs.cache
+/WebAPI/obj/Debug/WebAPI.csprojAssemblyReference.cache
